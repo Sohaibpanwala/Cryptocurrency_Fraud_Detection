@@ -1,0 +1,9 @@
+Model,Accuracy Score
+LogisticRegression,0.9549866849926982
+LogisticRegressionCV,0.9703633708444291
+LinearSVC,0.9667554333820119
+SGDClassifier,0.9171033416373163
+PassiveAggressiveClassifier,0.9464822609741431
+RandomForestClassifier,0.986599089425307
+GradientBoostingClassifier,0.9840219912378662
+XGBClassifier,0.9905506399793832
