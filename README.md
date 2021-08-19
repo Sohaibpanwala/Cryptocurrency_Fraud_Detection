@@ -4,6 +4,6 @@ Obtained data on Bitcoin transactions sourced from Elliptic in conjuction with C
  - Finally combined graphspace embeddings along with Neural Networks to create a Graphical Convolutional Network (GCN) to further elaborate on the classification
 
 Classification Demo:
-![Classification Demo](demo/Webp.net-gifmaker.gif)
+![Classification Demo](Demo/Demo.gif)
 
 
