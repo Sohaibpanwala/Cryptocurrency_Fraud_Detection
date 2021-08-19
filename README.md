@@ -1,1 +1,4 @@
-Using data sourced from Elliptic in conjuction with Cornell University, used Social Network Analysis in creating graphspace for cryptocurrency transactions. Then applied ML models to classify transactions as illicit or licit; finally combined graphspace embeddings along with Neural Networks to create a Graphical Convolutional Network (GCN) to further elaborate on the work.
+Obtained data on Bitcoin transactions sourced from Elliptic in conjuction with Cornell University:
+ - Used Social Network Analysis in creating graphspace for the transactions. 
+ - Then applied ML models to classify transactions as illicit or licit; 
+ - Finally combined graphspace embeddings along with Neural Networks to create a Graphical Convolutional Network (GCN) to further elaborate on the classification
